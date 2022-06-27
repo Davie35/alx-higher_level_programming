@@ -1,11 +1,7 @@
 #!/usr/bin/python3
-class Rectangle():
-    def __init__(self, l, w):
-        self.length = l
-        self.width  = w
+"""An empty rectangle class"""
 
-    def rectangle_area(self):
-        return self.length*self.width
 
-newRectangle = Rectangle(12, 10)
-print(newRectangle.rectangle_area())
+class Rectangle:
+    """Property retriever, for retreiving"""
+    pass)
