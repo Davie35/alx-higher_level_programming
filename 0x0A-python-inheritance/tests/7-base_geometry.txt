@@ -1,5 +1,5 @@
 # 7-base_geometry.txt
-# Davie <dnjoroge35@gmail.com>
+# # Brennan D Baraban <375@holbertonschool.com>
 
 =============================
 How to Use 7-base_geometry.py
